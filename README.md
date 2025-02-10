@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ameer-MA&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ameer-officials's GitHub stats" />
 </a>
 
-<img align='right' alt='programmer' width='400' src='https://cdn.dribbble.com/users/68473/screenshots/594852/attachments/47299/GlowMatix-Large.gif'/>
+<img align='right' alt='programmer' width='400px' height='400px' src='https://cdn.dribbble.com/users/68473/screenshots/594852/attachments/47299/GlowMatix-Large.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ameer-MA&label=Profile%20views&color=0e75b6&style=flat" alt="Ameer-MA" /> </p>
 
 - 🔭 I’m currently working for [ECOCREW-Recycle and Earn.](https://ecocrew.in/)
