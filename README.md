@@ -1,5 +1,5 @@
 <h1 align="center">Hi ❤️, I'm AMEER</h1>
-<h3 align="center">A passionate BACKEND-DEVELOPER(full-stack) from India</h3>
+<h3 align="center">A passionate Backend focused FULL STACK DEVELOPER from India</h3>
 
 
 <h1> HALOPIN BADGE'S </h1>
