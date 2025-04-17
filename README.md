@@ -2,7 +2,7 @@
     <h1>Hi there! I'm AMEER 💓</h1>
     <h3>A Backend-Focused Full Stack Developer from India 🚀</h3>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Backend+Developer;Full+Stack+Engineer;Cloud+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Backend+Developer;Full+Stack+Developer;Cloud+Architecture+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
